@@ -31,3 +31,12 @@
 
 en:
   hello: "Hello world"
+  header_csv:
+    created_at: Timestamp
+    transaction_type: Transaction Type
+    token: Token
+    amount: Amount
+    portfolio: PortFolio
+  messages:
+    errors:
+      fail: 'Fail'
